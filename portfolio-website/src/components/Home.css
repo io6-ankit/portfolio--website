@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left-section {
+  height: 200px;
+  width: 500px;
+  /* border: 1px solid rgb(31, 54, 136);s */
+  margin: 500px 0px 0 200px;
+  font-size: 16px;
+  background-color: blue;
+  border-radius: 10px;
+  box-shadow: 1px 1px 14px 14px rgb(16, 151, 38);
+}
+.tytle {
+  margin: 20px 0 0 12px;
+}
+.right-section {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  margin: 500px 200px 0 0;
+  border-radius: 50%;
+  box-shadow: 1px 1px 15px 15px green;
+}
+.image {
+  height: 300px;
+  width: 300px;
+  /* border: 1px solid black; */
+  /* margin: 500px 200px 0 0; */
+  border-radius: 50%;
+}
