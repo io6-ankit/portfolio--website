@@ -2,7 +2,7 @@ import React from "react";
 import Box from "@mui/material/Box";
 import Link from "@mui/material/Link";
 import "./Navbar.css";
-// import Home from "./Home";
+import Home from "./Home";
 const Navbar = () => {
   return (
     <>
@@ -16,7 +16,7 @@ const Navbar = () => {
               color: "white",
             }}
             href="#"
-            // src={<Home />}
+            src={<Home />}
             underline="none"
           >
             Home
