@@ -7,27 +7,44 @@
   height: 200px;
   width: 500px;
   /* border: 1px solid rgb(31, 54, 136);s */
-  margin: 500px 0px 0 200px;
+  margin: 300px 0px 0 150px;
   font-size: 16px;
-  background-color: blue;
+  /* background-color: blue; */
   border-radius: 10px;
-  box-shadow: 1px 1px 14px 14px rgb(16, 151, 38);
+  /* box-shadow: 1px 1px 14px 14px rgb(16, 151, 38); */
+}
+.name-heading {
+  font-size: 70px;
+  color: rgb(20, 47, 61);
 }
 .tytle {
-  margin: 20px 0 0 12px;
+  /* margin: 20px 0 0 12px; */
+  font-size: 40px;
+  color: rgb(87, 158, 180);
 }
 .right-section {
-  height: 300px;
-  width: 300px;
-  border: 1px solid black;
+  /* height: 300px; */
+  /* width: 300px; */
+  /* border: 1px solid black; */
   margin: 500px 200px 0 0;
-  border-radius: 50%;
-  box-shadow: 1px 1px 15px 15px green;
+  /* border-radius: 50%; */
+  /* box-shadow: 1px 1px 15px 15px green; */
 }
 .image {
-  height: 300px;
-  width: 300px;
+  height: 500px;
+  /* width: 300px; */
   /* border: 1px solid black; */
   /* margin: 500px 200px 0 0; */
+  /* border-radius: 50%; */
+}
+.Linkedle-image {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin-bottom: 5px;
+}
+.Github-image {
+  height: 50px;
+  width: 50px;
   border-radius: 50%;
 }

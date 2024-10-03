@@ -12,6 +12,6 @@ code {
     monospace;
 } */
 body {
-  background-color: rgb(11, 26, 51);
-  color: white;
+  /* background-color: rgb(11, 26, 51); */
+  color: rgb(83, 121, 161);
 }

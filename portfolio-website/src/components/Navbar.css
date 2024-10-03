@@ -9,6 +9,7 @@
 .left {
   margin-left: 40px;
   font-size: 30px;
+  /* color: black; */
 }
 /* .right {
   color: white;
@@ -20,4 +21,18 @@
 } */
 .right:hover {
   border-bottom: 2px solid yellows;
+}
+.list {
+  list-style-type: none;
+  margin-left: 50px;
+  font-size: 25px;
+
+  /* color: black; */
+}
+li:hover {
+  background-color: rgb(65, 186, 176);
+}
+.main-list {
+  display: flex;
+  margin-left: 20px;
 }

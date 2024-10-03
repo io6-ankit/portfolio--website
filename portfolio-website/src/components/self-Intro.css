@@ -1,0 +1,80 @@
+.heading {
+  margin: 40% 0 0 40%;
+  font-size: 80px;
+  color: rgb(23, 22, 22);
+}
+.main-section {
+  /* margin: auto; */
+  /* margin: 40% 0 0 45%; */
+}
+.title {
+  display: flex;
+}
+.image-main-section {
+  height: 300px;
+  width: 50%;
+}
+.image {
+  height: 400px;
+  width: 100%;
+  margin-top: 30px;
+}
+.heading-title {
+  font-size: 60px;
+  color: rgb(47, 47, 57);
+  margin: 40px 0 0 40px;
+}
+.Skills-Link-section {
+  height: 70px;
+  width: 80%;
+  /* border: 1px solid black; */
+  margin: 10px 0 0 50px;
+}
+/* .parcel {
+  height: 70px;
+  width: 150px;
+  padding: 15px 0 0 2px;
+} */
+.materialui {
+  /* height: 30px; */
+  /* width: 30px; */
+  height: 50px;
+  width: 50px;
+  margin-left: 20px;
+}
+.npm {
+  margin-left: 20px;
+  height: 50px;
+  width: 50px;
+}
+.reactjs {
+  margin-left: 20px;
+  height: 50px;
+  width: 50px;
+}
+.html5 {
+  height: 50px;
+  width: 50px;
+  margin-left: 5px;
+}
+.css3 {
+  height: 50px;
+  width: 50px;
+  margin-left: 13px;
+}
+.javascript {
+  height: 50px;
+  width: 50px;
+  margin-left: 13px;
+}
+.explain-section {
+  height: 180px;
+  width: 100%;
+  /* border: 1px solid black; */
+}
+.explain {
+  font-size: 30px;
+}
+.bootstrap {
+  margin-left: 13px;
+}
