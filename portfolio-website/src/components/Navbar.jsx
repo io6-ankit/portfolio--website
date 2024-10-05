@@ -10,8 +10,8 @@ const Navbar = () => {
   const handleClickedHomePage = () => {
     navigate("/home");
   };
-  const handleClickedExperiencePage = () => {
-    navigate("/experience");
+  const handleClickedEducationPage = () => {
+    navigate("/education");
   };
   const handleClickedContactPage = () => {
     navigate("/contact");
@@ -19,8 +19,8 @@ const Navbar = () => {
   const handleClickedProjectsPage = () => {
     navigate("/project");
   };
-  const handleClickedSkillsPage = () => {
-    navigate("/skill");
+  const handleClickedExperiencePage = () => {
+    navigate("/experience");
   };
 
   return (
@@ -33,11 +33,11 @@ const Navbar = () => {
               Home
             </li>
 
+            <li onClick={() => handleClickedEducationPage()} className="list">
+              Education
+            </li>
             <li onClick={() => handleClickedExperiencePage()} className="list">
               Experience
-            </li>
-            <li onClick={() => handleClickedSkillsPage()} className="list">
-              Skills
             </li>
             <li onClick={() => handleClickedProjectsPage()} className="list">
               Projects

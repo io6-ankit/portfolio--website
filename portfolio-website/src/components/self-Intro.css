@@ -73,7 +73,8 @@
   /* border: 1px solid black; */
 }
 .explain {
-  font-size: 30px;
+  font-size: 23px;
+  list-style-type: none;
 }
 .bootstrap {
   margin-left: 13px;

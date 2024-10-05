@@ -1,31 +1,22 @@
 import React from "react";
-import { Box } from "@mui/material";
-import "./experiance.css";
-import QualificationImage from "./assets/image/qualification-image.png";
-import Qualification from "./Qualification";
+import Box from "@mui/material/Box";
+import "./experience.css";
 const Experience = () => {
   return (
-    <>
-      <Box className="experience-main-section">
-        <Box className="experience-image-section">
-          <img
-            className="qualification-image"
-            src={QualificationImage}
-            alt="qualification-image"
-          />
-        </Box>
-        <Box className="experience-heading-section">
-          <Box>
-            <Box className="main-heading-eduvation">Education</Box>
-
-            <Box className="education-heading">
-              Basic Qualification and Certifcations
-            </Box>
-          </Box>
-        </Box>
+    <Box className="container-skills">
+      <h1 className="skill-tytle">Skills</h1>
+      <Box className="skills">
+        <Box className="skillsType">vfvfs</Box>
+        <Box className="skillsType">fvfsv</Box>
+        <Box className="skillsType">fvsfvfs</Box>
       </Box>
-      <Qualification />
-    </>
+      <Box className="skills-2">
+        <Box className="skillsType">fvfsvs</Box>
+        <Box className="skillsType">fsvfs</Box>
+        <Box className="skillsType">fsgvfsvs</Box>
+      </Box>
+      <Box>fvfss</Box>
+    </Box>
   );
 };
 export default Experience;

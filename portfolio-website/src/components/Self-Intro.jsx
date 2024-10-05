@@ -38,14 +38,14 @@ const SelfIntroduction = () => {
               <ul className="explain">
                 <li>
                   {" "}
-                  Building responsive website front end using React-Redux
+                  ⚡Building responsive website front end using React-Redux
                 </li>
                 <li>
                   {" "}
-                  Developing web applications using React Js, Javascript, Html5
-                  and Css3.
+                  ⚡Developing web applications using React Js, Javascript,
+                  Html5 and Css3.
                 </li>
-                <li> Creating application.</li>
+                <li> ⚡Creating application.</li>
               </ul>
             </Box>
           </Box>
