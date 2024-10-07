@@ -1,0 +1,70 @@
+.contact-main-section {
+  display: flex;
+}
+.contact-main-heading-section {
+  height: 600px;
+  width: 54%;
+  /* border: 1px solid black; */
+}
+.contact-paragraph-section {
+  font-size: 22px;
+  margin: 30px 0 0 90px;
+}
+.contact-heading-section {
+  margin: 70px 0 0 30%;
+}
+.contact-image-main-section {
+  height: 600px;
+  width: 46%;
+  /* border: 1px solid black; */
+}
+.contact-image-section {
+  height: 400px;
+  width: 60%;
+  /* border: 1px solid black; */
+  margin: 70px 0 0 30%;
+}
+.githubImageSection {
+  height: 50px;
+  width: 50px;
+  margin: 10px 0 0 270px;
+}
+.linkedlnImageSection {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin-bottom: 4px;
+}
+.resume-button {
+  margin: 20px 0 0px 30%;
+  font-size: 20px;
+}
+.resume-button:hover {
+  background-color: rgb(44, 128, 95);
+  color: white;
+}
+.adress-heading-section {
+  margin: 10px 0 0 250px;
+  font-size: 20px;
+}
+.adress-paragraph-section {
+  margin: 0 0 0 100px;
+}
+.heading-mobile-number-section {
+  margin: 10px 0 0 250px;
+  font-size: 20px;
+}
+.number-section {
+  margin: 10px 0 0 320px;
+  font-size: 20px;
+}
+.maps {
+  margin: 10px 0 0 320px;
+}
+.visit-google-map-button {
+  font-size: 20px;
+}
+.visit-google-map-button:hover {
+  background-color: rgb(44, 128, 95);
+  color: white;
+}

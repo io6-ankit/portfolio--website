@@ -26,7 +26,7 @@ const Navbar = () => {
   return (
     <>
       <Box className="container nav_bar">
-        <Box className="left">Portfolio</Box>
+        <Box className="left">-:-Ankit Maurya-:-</Box>
         <Box className="right">
           <ul className="main-list">
             <li onClick={() => handleClickedHomePage()} className="list">

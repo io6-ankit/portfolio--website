@@ -1,0 +1,13 @@
+.project-main-section {
+  display: flex;
+}
+.project-heading-section {
+  margin: 50% 0 0 150px;
+  color: rgb(50, 71, 97);
+}
+.project-image-section {
+}
+.project-paragraph-section {
+  margin: 20px 0px 0px 10px;
+  font-size: 20px;
+}
