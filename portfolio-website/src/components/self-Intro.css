@@ -79,3 +79,29 @@
 .bootstrap {
   margin-left: 13px;
 }
+@media only screen and (max-width: 700px) {
+  .title {
+    display: inline;
+  }
+  .image {
+    height: 400px;
+    width: 100%;
+    margin: 30px 0 0 150px;
+  }
+  .heading-title {
+    font-size: 60px;
+    color: rgb(47, 47, 57);
+    margin: 90px 0 0 200px;
+  }
+  .Skills-Link-section {
+    height: 70px;
+    width: 90%;
+    /* border: 1px solid black; */
+    margin: 50px 0 0 120px;
+  }
+  .explain {
+    font-size: 23px;
+    list-style-type: none;
+    margin: 0 0 0 60px;
+  }
+}

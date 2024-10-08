@@ -43,7 +43,7 @@ const Contact = () => {
           <Box className="heading-mobile-number-section">
             <Typography variant="h3">Mobile Number</Typography>
           </Box>
-          <Box className="number-section">+91-6387527257</Box>
+          <Box className="number-section">+91-9935351589</Box>
           <Box className="maps">
             <a href="https://maps.app.goo.gl/ZaiEtvdceZUzwiFT9">
               <button className="visit-google-map-button">
