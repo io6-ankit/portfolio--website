@@ -97,11 +97,96 @@
     height: 70px;
     width: 90%;
     /* border: 1px solid black; */
+    margin: 50px 0 0 80px;
+  }
+  .explain {
+    font-size: 23px;
+    list-style-type: none;
+    margin: 0 0 0 60px;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  .title {
+    display: inline;
+  }
+  .heading {
+    margin: 10px 0 0 40%;
+    font-size: 80px;
+    color: rgb(23, 22, 22);
+  }
+  .image {
+    height: 400px;
+    width: 100%;
+    margin: 30px 0 0 150px;
+  }
+  .heading-title {
+    font-size: 60px;
+    color: rgb(47, 47, 57);
+    margin: 90px 0 0 200px;
+  }
+  .Skills-Link-section {
+    height: 70px;
+    width: 90%;
+    /* border: 1px solid black; */
     margin: 50px 0 0 120px;
   }
   .explain {
     font-size: 23px;
     list-style-type: none;
     margin: 0 0 0 60px;
+  }
+}
+@media only screen and (max-width: 1300px) {
+  .title {
+    display: inline;
+  }
+  .heading {
+    margin: 10px 0 0 40%;
+    font-size: 80px;
+    color: rgb(23, 22, 22);
+  }
+  .image {
+    height: 400px;
+    width: 100%;
+    margin: 30px 0 0 250px;
+  }
+  .heading-title {
+    font-size: 60px;
+    color: rgb(47, 47, 57);
+    margin: 90px 0 0 320px;
+  }
+  .Skills-Link-section {
+    height: 70px;
+    width: 90%;
+    /* border: 1px solid black; */
+    margin: 50px 0 0 340px;
+  }
+  .explain {
+    font-size: 23px;
+    list-style-type: none;
+    margin: 0 0 0 180px;
+  }
+}
+@media only screen and (max-width: 550px) {
+  .explain {
+    font-size: 23px;
+    list-style-type: none;
+    margin: 50px 0 0 60px;
+  }
+  .Skills-Link-section {
+    height: 70px;
+    width: 90%;
+    /* border: 1px solid black; */
+    margin: 50px 0 0 140px;
+  }
+  .heading-title {
+    font-size: 60px;
+    color: rgb(47, 47, 57);
+    margin: 90px 0 0 220px;
+  }
+  .heading {
+    margin: 10px 0 0 60%;
+    font-size: 80px;
+    color: rgb(23, 22, 22);
   }
 }

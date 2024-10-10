@@ -36,6 +36,28 @@ li:hover {
   display: flex;
   margin-left: 20px;
 }
+@media only screen and (max-width: 1300px) {
+  .left {
+    margin-left: 450px;
+    font-size: 30px;
+    /* color: black; */
+  }
+  .main-list {
+    display: flex;
+    margin-left: 190px;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  .left {
+    margin-left: 380px;
+    font-size: 30px;
+    /* color: black; */
+  }
+  .main-list {
+    display: flex;
+    margin-left: 100px;
+  }
+}
 @media only screen and (max-width: 700px) {
   .left {
     margin-left: 300px;
@@ -45,5 +67,11 @@ li:hover {
   .main-list {
     display: flex;
     margin-left: -40px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .main-list {
+    display: flex;
+    margin-left: -70px;
   }
 }

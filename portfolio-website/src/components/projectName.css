@@ -55,3 +55,10 @@ a {
   text-decoration: none;
   color: rgb(94, 137, 137);
 }
+@media only screen and(max-width:1200px) {
+  .projectName-main-section {
+    display: inline-block;
+    /* align-items: center;
+    justify-content: space-around; */
+  }
+}

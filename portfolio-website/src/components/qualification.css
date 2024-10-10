@@ -33,3 +33,14 @@
 /* .qualification-parent-second-section {
   margin: 20px 50px 0 0;
 } */
+@media only screen and(max-width:900px) {
+  .Degrees-Received {
+    /* margin: -313px 0 0 35%; */
+    margin-top: -330px;
+    color: rgb(37, 36, 36);
+  }
+  .qualification-parent-section {
+    margin-left: 300px;
+    margin-top: -200px;
+  }
+}

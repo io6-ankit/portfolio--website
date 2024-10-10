@@ -68,3 +68,8 @@
   background-color: rgb(44, 128, 95);
   color: white;
 }
+@media only screen and(max-width:1000px) {
+  .contact-main-section {
+    display: inline-block;
+  }
+}
