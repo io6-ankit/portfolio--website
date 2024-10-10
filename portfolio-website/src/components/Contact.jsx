@@ -8,6 +8,11 @@ const Contact = () => {
   return (
     <>
       <Box className="contact-main-section">
+        <Box className="contact-image-main-section">
+          {" "}
+          <img src={Man2} alt="Man2" className="contact-image-section" />
+        </Box>
+
         <Box className="contact-main-heading-section">
           <Box className="contact-heading-section">
             <Typography variant="h2">Contact Me</Typography>
@@ -51,10 +56,6 @@ const Contact = () => {
               </button>
             </a>
           </Box>
-        </Box>
-        <Box className="contact-image-main-section">
-          {" "}
-          <img src={Man2} alt="Man2" className="contact-image-section" />
         </Box>
       </Box>
     </>

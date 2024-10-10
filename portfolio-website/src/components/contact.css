@@ -4,7 +4,7 @@
 .contact-main-heading-section {
   height: 600px;
   width: 54%;
-  /* border: 1px solid black; */
+  border: 1px solid black;
 }
 .contact-paragraph-section {
   font-size: 22px;
@@ -16,12 +16,12 @@
 .contact-image-main-section {
   height: 600px;
   width: 46%;
-  /* border: 1px solid black; */
+  border: 1px solid black;
 }
 .contact-image-section {
   height: 400px;
   width: 60%;
-  /* border: 1px solid black; */
+  border: 1px solid black;
   margin: 70px 0 0 30%;
 }
 .githubImageSection {
@@ -68,7 +68,7 @@
   background-color: rgb(44, 128, 95);
   color: white;
 }
-@media only screen and(max-width:1000px) {
+@media only screen and(max-width:1400px) {
   .contact-main-section {
     display: inline-block;
   }
