@@ -1,24 +1,28 @@
 import React from "react";
 import { Box, Typography } from "@mui/material";
+// import ExperienceImage from "./assets/image/experience-image.png";
 import Man2 from "./assets/image/man-2.png";
 import Github from "./assets/image/GitHub.png";
 import Linkedln from "./assets/image/linkedle.png";
 import "./contact.css";
+// import { Man2 } from "@mui/icons-material";
 const Contact = () => {
   return (
     <>
-      <Box className="contact-main-section">
-        <Box className="contact-image-main-section">
-          {" "}
-          <img src={Man2} alt="Man2" className="contact-image-section" />
+      <Box className="Contact-main-section">
+        <Box className="Contact-main-image-section">
+          <img
+            className="Contact-image-section"
+            src={Man2}
+            alt="experience-image"
+          />
         </Box>
-
         <Box className="contact-main-heading-section">
           <Box className="contact-heading-section">
             <Typography variant="h2">Contact Me</Typography>
           </Box>
           <Box className="contact-paragraph-section">
-            <Typography variant="p">
+            <Typography variant="h5">
               I am available on some social media. You can message me, I will
               reply within 1 days. I can help you with JS, React, Html, Css and
               Opensource Development.
