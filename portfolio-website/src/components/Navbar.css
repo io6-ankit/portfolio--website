@@ -36,20 +36,57 @@ li:hover {
   display: flex;
   margin-left: 20px;
 }
-@media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 1400px) {
   .left {
-    margin-left: 450px;
+    margin-left: 12px;
     font-size: 30px;
     /* color: black; */
   }
   .main-list {
     display: flex;
-    margin-left: 190px;
+    margin-left: 160px;
+    height: 20px;
+    width: 50%;
+    /* border: 1px solid black; */
+  }
+  .list {
+    list-style-type: none;
+    margin-right: 33px;
+    font-size: 25px;
+    height: 20px;
+    width: 150%;
+    /* border: 1px solid black; */
+
+    /* color: black; */
+  }
+}
+@media only screen and (max-width: 1300px) {
+  .left {
+    margin-left: 650px;
+    font-size: 30px;
+    /* color: black; */
+  }
+  .main-list {
+    display: flex;
+    margin-left: 160px;
+    height: 20px;
+    width: 130%;
+    /* border: 1px solid black; */
+  }
+  .list {
+    list-style-type: none;
+    margin-left: 25px;
+    font-size: 25px;
+    height: 20px;
+    width: 150%;
+    /* border: 1px solid black; */
+
+    /* color: black; */
   }
 }
 @media only screen and (max-width: 1000px) {
   .left {
-    margin-left: 380px;
+    margin-left: 550px;
     font-size: 30px;
     /* color: black; */
   }
@@ -60,7 +97,7 @@ li:hover {
 }
 @media only screen and (max-width: 700px) {
   .left {
-    margin-left: 300px;
+    margin-left: 360px;
     font-size: 30px;
     /* color: black; */
   }
@@ -68,10 +105,38 @@ li:hover {
     display: flex;
     margin-left: -40px;
   }
+  .list {
+    list-style-type: none;
+    margin-left: 32px;
+    font-size: 25px;
+    height: 20px;
+    width: 150%;
+    /* border: 1px solid black; */
+    /* color: black; */
+  }
 }
 @media only screen and (max-width: 400px) {
   .main-list {
     display: flex;
-    margin-left: -70px;
+    margin-left: 0px;
+    height: 20px;
+    width: 100%;
+    /* border: 1px solid black; */
+  }
+  .left {
+    margin-left: 353px;
+    font-size: 30px;
+    /* color: black; */
+  }
+
+  .list {
+    list-style-type: none;
+    margin-left: 40px;
+    font-size: 25px;
+    height: 20px;
+    width: 150%;
+    /* border: 1px solid black; */
+
+    /* color: black; */
   }
 }

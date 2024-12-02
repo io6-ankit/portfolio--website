@@ -116,8 +116,8 @@
   }
   .image {
     height: 400px;
-    width: 100%;
-    margin: 30px 0 0 150px;
+    width: 179%;
+    margin: 30px 0 0 158px;
   }
   .heading-title {
     font-size: 60px;
@@ -136,19 +136,33 @@
     margin: 0 0 0 60px;
   }
 }
+
+@media only screen and (max-width: 900px) {
+  .heading {
+    margin: 3% 0 0 50%;
+    font-size: 80px;
+    color: rgb(23, 22, 22);
+  }
+}
+
 @media only screen and (max-width: 1300px) {
   .title {
     display: inline;
   }
+  /* .heading {
+    margin: -591px 0 0 73%;
+    font-size: 80px;
+    color: rgb(23, 22, 22);
+  } */
   .heading {
-    margin: 10px 0 0 40%;
+    margin: 3% 0 0 40%;
     font-size: 80px;
     color: rgb(23, 22, 22);
   }
   .image {
     height: 400px;
-    width: 100%;
-    margin: 30px 0 0 250px;
+    width: 179%;
+    margin: 30px 0 0 158px;
   }
   .heading-title {
     font-size: 60px;

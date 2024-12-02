@@ -25,7 +25,7 @@ const Home = () => {
           </a>
         </Box>
         <Box className="right-section">
-          <img className="image" src={Image} alt="man" />
+          <img className="image-1" src={Image} alt="man" />
           {/* <img src={Image} alt="man" /> */}
         </Box>
       </Box>

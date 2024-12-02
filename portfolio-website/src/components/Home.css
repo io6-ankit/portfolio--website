@@ -30,7 +30,7 @@
   /* border-radius: 50%; */
   /* box-shadow: 1px 1px 15px 15px green; */
 }
-.image {
+.image-1 {
   height: 500px;
   /* width: 300px; */
   /* border: 1px solid black; */
@@ -52,6 +52,21 @@
   .container {
     display: inline-block;
   }
+  .name-heading {
+    width: 101%;
+    height: 40px;
+    margin-left: 168px;
+    font-size: 70px;
+    color: rgb(20, 47, 61);
+  }
+  .tytle {
+    /* border: 1px solid black; */
+    width: 182%;
+    height: 162px;
+    /* margin: 20px 0 0 12px; */
+    font-size: 40px;
+    color: rgb(87, 158, 180);
+  }
   .left-section {
     height: 200px;
     width: 500px;
@@ -61,16 +76,21 @@
     /* background-color: blue; */
     border-radius: 10px;
   }
-  .image {
+  .right-section {
+    margin: 143px 0px 0 150px;
+    /* border: 1px solid black; */
+    width: 100%;
+  }
+  .image-1 {
     height: 500px;
     /* width: 300px; */
     /* border: 1px solid black; */
-    margin: 0px 0px 0px 80px;
+    margin: -100px 0px 0px 80px;
     /* border-radius: 50%; */
   }
-  .right-section {
+  /* .right-section {
     margin: 300px 0px 0 150px;
-  }
+  } */
 }
 @media only screen and (max-width: 1000px) {
   .container {
@@ -85,18 +105,26 @@
 
     border-radius: 10px;
   }
-  .image {
+  .image-1 {
     height: 500px;
 
     margin: 0px 0px 0px 80px;
   }
   .right-section {
-    margin: 300px 200px 0 0;
+    margin: 143px 200px 0 0;
   }
 }
 @media only screen and (max-width: 700px) {
   .container {
     display: inline-block;
+  }
+  .tytle {
+    /* border: 1px solid black; */
+    width: 160%;
+    height: 162px;
+    /* margin: 20px 0 0 12px; */
+    font-size: 40px;
+    color: rgb(87, 158, 180);
   }
   .left-section {
     height: 200px;
@@ -107,17 +135,27 @@
 
     border-radius: 10px;
   }
-  .image {
+  .image-1 {
     height: 500px;
 
     margin: 0px 0px 0px 80px;
   }
   .right-section {
-    margin: 300px 200px 0 0;
+    margin: 143px 200px 0 0;
   }
 }
 @media only screen and(max-width:500px) {
   .right-section {
     margin: 300px 0 0 202px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .tytle {
+    /* border: 1px solid black; */
+    width: 159%;
+    height: 162px;
+    /* margin: 20px 0 0 12px; */
+    font-size: 40px;
+    color: rgb(87, 158, 180);
   }
 }
