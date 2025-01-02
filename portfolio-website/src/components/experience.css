@@ -4,12 +4,10 @@
 .Experience-parent-section {
   height: 600px;
   width: 50%;
-  /* border: 1px solid black; */
 }
 .Experience-main-image-section {
   height: 600px;
   width: 50%;
-  /* border: 1px solid black; */
 }
 .Experience-image-section {
   height: 500px;
@@ -27,7 +25,7 @@
 .Experience-paragraph-section {
   margin: 20px 0 0 35px;
   font-size: 22px;
-  /* border: 1px solid black; */
+
   height: 300px;
 }
 .Experience-paragraph-section-child {
@@ -41,13 +39,11 @@
     height: 600px;
     width: 120%;
     margin: 0 0 0 100px;
-    /* border: 1px solid black; */
   }
   .Experience-parent-section {
     height: 600px;
     width: 100%;
     margin: 0 0 0 200px;
-    /* border: 1px solid black; */
   }
   .Experience-main-heading-section {
     margin: 120px 0 0 390px;
@@ -66,13 +62,11 @@
     height: 600px;
     width: 120%;
     margin: 0 0 0 150px;
-    /* border: 1px solid black; */
   }
   .Experience-parent-section {
     height: 600px;
     width: 120%;
     margin: 0 0 0 170px;
-    /* border: 1px solid black; */
   }
   .Experience-main-heading-section {
     margin: 120px 0 0 390px;
@@ -88,7 +82,6 @@
     height: 600px;
     width: 130%;
     margin: 0 0 0 140px;
-    /* border: 1px solid black; */
   }
   .Experience-main-heading-section {
     margin: 120px 0 0 250px;
@@ -104,7 +97,6 @@
     height: 600px;
     width: 130%;
     margin: 0 0 0 70px;
-    /* border: 1px solid black; */
   }
   .Experience-main-heading-section {
     margin: 120px 0 0 250px;

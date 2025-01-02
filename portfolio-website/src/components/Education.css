@@ -1,15 +1,12 @@
 .experience-main-section {
   display: flex;
-  /* border: 1px solid black; */
 }
 
 .experience-image-section {
   height: 600px;
   width: 50%;
-  /* border: 1px solid black; */
 }
 .experience-heading-section {
-  /* border: 1px solid black; */
   width: 50%;
   height: 600px;
 }
@@ -32,17 +29,15 @@
     display: flex;
     width: 135%;
     height: 600px;
-    /* border: 1px solid black; */
   }
   .experience-heading-section {
-    /* border: 1px solid black; */
     width: 70%;
     height: 600px;
   }
   .experience-image-section {
     height: 600px;
     width: 50%;
-    /* border: 1px solid black; */
+
     margin: 0 0 0 40px;
   }
 }
@@ -54,10 +49,8 @@
     height: 600px;
     width: 70%;
     margin: 0 0 0 290px;
-    /* border: 1px solid black; */
   }
   .experience-heading-section {
-    /* border: 1px solid black; */
     width: 80%;
     height: 600px;
     margin: -30px 0 0 150px;
@@ -73,10 +66,8 @@
     height: 600px;
     width: 120%;
     margin: 0 0 0 200px;
-    /* border: 1px solid black; */
   }
   .experience-heading-section {
-    /* border: 1px solid black; */
     width: 150%;
     height: 600px;
     margin: -50px 0 0 50px;
@@ -87,10 +78,8 @@
     height: 600px;
     width: 120%;
     margin: 0 0 0 180px;
-    /* border: 1px solid black; */
   }
   .experience-heading-section {
-    /* border: 1px solid black; */
     width: 170%;
     height: 600px;
     margin: -70px 0 0 0px;
@@ -98,7 +87,6 @@
 }
 @media only screen and (max-width: 321px) {
   .experience-heading-section {
-    /* border: 1px solid black; */
     width: 200%;
     height: 600px;
     margin: -70px 0 0 0px;

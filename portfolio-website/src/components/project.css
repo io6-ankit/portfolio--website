@@ -12,23 +12,15 @@
   font-size: 20px;
 }
 @media only screen and (max-width: 1025px) {
-  /* .project-main-section {
-    display: flex;
-  } */
   .project-heading-section {
     margin: 150px 0 0 50px;
     color: rgb(50, 71, 97);
-    /* border: 1px solid black; */
   }
   .project-paragraph-section {
     margin: 20px 0px 0px 10px;
     font-size: 20px;
     width: 390px;
-    /* border: 1px solid black; */
   }
-  /* .project-image-section {
-    margin: 0 0 0 200px;
-  } */
 }
 
 @media only screen and (max-width: 426px) {
@@ -39,6 +31,5 @@
   .project-heading-section {
     margin: 50px 0 0 50px;
     color: rgb(50, 71, 97);
-    /* border: 1px solid black; */
   }
 }

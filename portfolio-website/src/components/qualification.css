@@ -1,11 +1,10 @@
 .Degrees-Received {
   margin: 0 0 0 35%;
-  /* font-size: 40px; */
+
   color: rgb(37, 36, 36);
 }
 .qualification-main-heading {
   width: 70%;
-  /* height: 100px; */
 }
 .qualification-list {
   list-style-type: none;
@@ -24,21 +23,17 @@
 }
 .qualification-second-main-section {
   width: 70%;
-  /* margin: 20px; */
 }
 #panel2-header {
   background-color: rgb(62, 184, 186);
   color: rgb(106, 12, 12);
 }
-/* .qualification-parent-second-section {
-  margin: 20px 50px 0 0;
-} */
+
 @media only screen and (max-width: 1441px) {
   .qualification-parent-section {
     margin-left: 130px;
-    /* margin-top: -200px; */
+
     width: 85%;
-    /* border: 1px solid black; */
   }
   .qualification-main-heading,
   .qualification-second-main-section {
@@ -52,9 +47,8 @@
   }
   .qualification-parent-section {
     margin-left: 200px;
-    /* margin-top: -200px; */
+
     width: 107%;
-    /* border: 1px solid black; */
   }
   .qualification-main-heading,
   .qualification-second-main-section {
@@ -63,18 +57,14 @@
 }
 @media only screen and (max-width: 768px) {
   .Degrees-Received {
-    /* margin: -313px 0 0 35%; */
-    /* margin-top: -330px; */
     margin: 60px 0 0 50%;
     width: 60%;
     color: rgb(37, 36, 36);
-    /* border: 1px solid black;i */
   }
   .qualification-parent-section {
     margin-left: 200px;
     margin-top: 50px;
     width: 125%;
-    /* border: 1px solid black; */
   }
   .qualification-main-heading,
   .qualification-second-main-section {
@@ -83,12 +73,9 @@
 }
 @media only screen and (max-width: 426px) {
   .Degrees-Received {
-    /* margin: -313px 0 0 35%; */
-    /* margin-top: -330px; */
     margin: 60px 0 0 75%;
     width: 100%;
     color: rgb(37, 36, 36);
-    /* border: 1px solid black; */
   }
   .qualification-parent-section {
     margin-left: 170px;
@@ -103,22 +90,16 @@
 }
 @media only screen and (max-width: 376px) {
   .Degrees-Received {
-    /* margin: -313px 0 0 35%; */
-    /* margin-top: -330px; */
     margin: 60px 0 0 75%;
     width: 120%;
     color: rgb(37, 36, 36);
-    /* border: 1px solid black; */
   }
 }
 @media only screen and (max-width: 321px) {
   .Degrees-Received {
-    /* margin: -313px 0 0 35%; */
-    /* margin-top: -330px; */
     margin: 60px 0 0 75%;
     width: 140%;
     color: rgb(37, 36, 36);
-    /* border: 1px solid black; */
   }
   .qualification-parent-section {
     margin-left: 170px;

@@ -4,7 +4,6 @@
 .Contact-main-image-section {
   height: 600px;
   width: 50%;
-  /* border: 1px solid black; */
 }
 .Contact-image-section {
   height: 500px;
@@ -14,7 +13,6 @@
 .contact-main-heading-section {
   height: 600px;
   width: 54%;
-  /* border: 1px solid black; */
 }
 .contact-paragraph-section {
   font-size: 21px;
@@ -23,15 +21,11 @@
 .contact-heading-section {
   margin: 70px 0 0 30%;
 }
-/* .contact-image-main-section {
-  height: 600px;
-  width: 46%;
-  /* border: 1px solid black; */
-/* } */
-*/ .contact-image-section {
+
+.contact-image-section {
   height: 400px;
   width: 60%;
-  /* border: 1px solid black; */
+
   margin: 70px 0 0 30%;
 }
 .githubImageSection {
@@ -86,13 +80,11 @@
   .contact-main-heading-section {
     height: 600px;
     width: 54%;
-    /* border: 1px solid black; */
   }
   .Contact-image-section {
     height: 420px;
     width: 100%;
     margin: 40px 0 0 20%;
-    /* border: 1px solid black; */
   }
   .contact-heading-section {
     margin: 30px 0 0 60%;
@@ -147,13 +139,11 @@
     margin: 30px 0 0 90%;
     height: 20px;
     width: 80%;
-    /* border: 1px solid black; */
   }
   .Contact-image-section {
     height: 420px;
     width: 130%;
     margin: 40px 0 0 40%;
-    /* border: 1px solid black; */
   }
   .contact-paragraph-section {
     height: 50px;
@@ -192,7 +182,6 @@
     height: 420px;
     width: 270%;
     margin: 40px 0 0 100%;
-    /* border: 1px solid black; */
   }
   .githubImageSection {
     height: 50px;
@@ -203,7 +192,6 @@
     margin: -80px 0 0 150%;
     height: 20px;
     width: 160%;
-    /* border: 1px solid black; */
   }
   .contact-paragraph-section {
     height: 50px;
@@ -237,13 +225,11 @@
     height: 420px;
     width: 270%;
     margin: 40px 0 0 230%;
-    /* border: 1px solid black; */
   }
   .Contact-image-section {
     height: 420px;
     width: 270%;
     margin: 40px 0 0 100%;
-    /* border: 1px solid black; */
   }
   .contact-paragraph-section {
     height: 50px;
@@ -277,7 +263,6 @@
     height: 420px;
     width: 270%;
     margin: 40px 0 0 150%;
-    /* border: 1px solid black; */
   }
   .contact-paragraph-section {
     height: 50px;
@@ -289,7 +274,6 @@
     margin: -80px 0 0 160%;
     height: 20px;
     width: 190%;
-    /* border: 1px solid black; */
   }
   .heading-mobile-number-section {
     margin: 270px 0 0 150%;
