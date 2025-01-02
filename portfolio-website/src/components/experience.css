@@ -27,50 +27,91 @@
 .Experience-paragraph-section {
   margin: 20px 0 0 35px;
   font-size: 22px;
+  /* border: 1px solid black; */
+  height: 300px;
 }
-@media only screen and (max-width: 1150px) {
+.Experience-paragraph-section-child {
+  font-size: 30px;
+}
+@media only screen and (max-width: 1024px) {
   .Experience-main-section {
     display: inline-block;
   }
   .Experience-main-image-section {
     height: 600px;
-    width: 50%;
-    margin: 0 0 0 300px;
+    width: 120%;
+    margin: 0 0 0 100px;
+    /* border: 1px solid black; */
   }
   .Experience-parent-section {
     height: 600px;
-    width: 50%;
-    margin: 0 0 0 300px;
+    width: 100%;
+    margin: 0 0 0 200px;
+    /* border: 1px solid black; */
   }
   .Experience-main-heading-section {
-    margin: 120px 0 0 130px;
+    margin: 120px 0 0 390px;
     color: rgb(3, 3, 69);
   }
   .Experience-heading-section {
-    margin: 15px 0 0 200px;
+    margin: 15px 0 0 450px;
     color: rgb(3, 3, 69);
   }
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 769px) {
   .Experience-main-section {
     display: inline-block;
   }
   .Experience-main-image-section {
     height: 600px;
-    width: 50%;
-    margin: 0 0 0 160px;
+    width: 120%;
+    margin: 0 0 0 150px;
+    /* border: 1px solid black; */
   }
   .Experience-parent-section {
     height: 600px;
-    width: 50%;
-    margin: 0 0 0 160px;
+    width: 120%;
+    margin: 0 0 0 170px;
+    /* border: 1px solid black; */
   }
   .Experience-main-heading-section {
-    margin: 120px 0 0 80px;
+    margin: 120px 0 0 390px;
     color: rgb(3, 3, 69);
   }
   .Experience-heading-section {
-    margin: 15px 0 0 120px;
+    margin: 15px 0 0 450px;
+    color: rgb(3, 3, 69);
+  }
+}
+@media only screen and (max-width: 426px) {
+  .Experience-parent-section {
+    height: 600px;
+    width: 130%;
+    margin: 0 0 0 140px;
+    /* border: 1px solid black; */
+  }
+  .Experience-main-heading-section {
+    margin: 120px 0 0 250px;
+    color: rgb(3, 3, 69);
+  }
+  .Experience-heading-section {
+    margin: 15px 0 0 300px;
+    color: rgb(3, 3, 69);
+  }
+}
+@media only screen and (max-width: 376px) {
+  .Experience-parent-section {
+    height: 600px;
+    width: 130%;
+    margin: 0 0 0 70px;
+    /* border: 1px solid black; */
+  }
+  .Experience-main-heading-section {
+    margin: 120px 0 0 250px;
+    color: rgb(3, 3, 69);
+  }
+  .Experience-heading-section {
+    margin: 15px 0 0 300px;
     color: rgb(3, 3, 69);
   }
 }

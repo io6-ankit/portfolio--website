@@ -21,7 +21,10 @@ const Experience = () => {
           <Typography variant="h4">Fresher</Typography>
         </Box>
         <Box className="Experience-paragraph-section">
-          <Typography variant="p">
+          <Typography
+            className="Experience-paragraph-section-child"
+            variant="p"
+          >
             I am a fresher.But I have basic knowledge of HTML, CSS, ReactJS,
             JavaScript, Bootstrap, Material UI, Parcel, Git, Github, Netlify. I
             have completed many projects using HTML, CSS, React JS, JavaScript,

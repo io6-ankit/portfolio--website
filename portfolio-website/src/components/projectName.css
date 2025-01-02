@@ -55,10 +55,97 @@ a {
   text-decoration: none;
   color: rgb(94, 137, 137);
 }
-@media only screen and(max-width:1200px) {
+.All-project-containt {
+  /* border: 1px solid black; */
+  height: 250px;
+  width: 280px;
+  margin: 40px auto;
+}
+.All-project-image {
+  height: 140px;
+  width: 140px;
+  margin: 0 0 0 40px;
+}
+.Github-Id-Name {
+  /* margin: 0 0 0 80px; */
+  /* width: 160px; */
+  /* border: 1px solid black; */
+}
+@media only screen and (max-width: 1025px) {
+  .projectName-main-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* /* margin: 20px; * */
+    /* margin: auto; */
+  }
+  .First-project,
+  .second-project,
+  .third-project {
+    margin-left: 68px;
+    /* border: 1px solid black; */
+  }
+  .All-project-containt {
+    /* border: 1px solid black; */
+    height: 250px;
+    width: 280px;
+    margin: 40px 0 0 60%;
+  }
+}
+@media only screen and (max-width: 769px) {
+  .First-project,
+  .second-project,
+  .third-project {
+    margin-left: 30px;
+    /* border: 1px solid black; */
+  }
+  .All-project-containt {
+    /* border: 1px solid black; */
+    height: 250px;
+    width: 280px;
+    margin: 40px 0 0 73%;
+  }
+}
+@media only screen and (max-width: 426px) {
   .projectName-main-section {
     display: inline-block;
     /* align-items: center;
     justify-content: space-around; */
+    margin: 0 0 0 200px;
+  }
+  .All-project-containt {
+    /* border: 1px solid black; */
+    height: 250px;
+    width: 270px;
+    margin: 40px 0 0 103%;
+  }
+  .First-project,
+  .second-project,
+  .third-project {
+    margin-top: 30px;
+    width: 620px;
+    /* border: 1px solid black; */
+  }
+}
+@media only screen and (max-width: 376px) {
+  .All-project-containt {
+    /* border: 1px solid black; */
+    height: 250px;
+    width: 280px;
+    margin: 40px 0 0 100%;
+  }
+  .projectName-main-section {
+    display: inline-block;
+    /* align-items: center;
+    justify-content: space-around; */
+    margin: 0 0 0 100px;
+  }
+}
+@media only screen and (max-width: 321px) {
+  .All-project-containt {
+    /* border: 1px solid black; */
+    height: 250px;
+    width: 280px;
+    margin: 40px 0 0 98%;
   }
 }

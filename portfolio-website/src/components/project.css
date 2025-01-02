@@ -11,24 +11,34 @@
   margin: 20px 0px 0px 10px;
   font-size: 20px;
 }
-@media only screen and (max-width: 1300px) {
-  .project-main-section {
-    display: inline-block;
-  }
+@media only screen and (max-width: 1025px) {
+  /* .project-main-section {
+    display: flex;
+  } */
   .project-heading-section {
-    margin: 0 0 0 550px;
+    margin: 150px 0 0 50px;
     color: rgb(50, 71, 97);
+    /* border: 1px solid black; */
   }
   .project-paragraph-section {
-    margin: 20px 0px 0px 410px;
+    margin: 20px 0px 0px 10px;
     font-size: 20px;
+    width: 390px;
+    /* border: 1px solid black; */
   }
-  .project-image-section {
+  /* .project-image-section {
     margin: 0 0 0 200px;
-  }
+  } */
 }
-@media only screen and(max-width:1400px) {
-  .project-main-section {
-    display: inline-block;
+
+@media only screen and (max-width: 426px) {
+  .project-image-section-child {
+    width: 530px;
+    height: 430px;
+  }
+  .project-heading-section {
+    margin: 50px 0 0 50px;
+    color: rgb(50, 71, 97);
+    /* border: 1px solid black; */
   }
 }

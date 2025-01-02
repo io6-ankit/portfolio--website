@@ -13,9 +13,9 @@ const Home = () => {
         <Box className="left-section">
           <h1 className="name-heading">Ankit Maurya</h1>
           <p className="tytle">
-            I am a passionate frontend developer, who always thrives to work on
-            end to end projects which develop sustainable and scalable social
-            and technical systems to create impact.
+            To utilize my knowledge of HTML, CSS, and JavaScript to develop and
+            maintain high-quality front-end applications. Eager to learn and
+            implement modern frameworks like React.js.
           </p>
           <a href="https://github.com/io6-ankit">
             <img className="Github-image" src={Github} alt="Github" />

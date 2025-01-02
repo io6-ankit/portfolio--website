@@ -1,5 +1,6 @@
 import { Box, Typography } from "@mui/material";
 import React from "react";
+import GithubImage from "./assets/image/GitHub.png";
 import "./projectName.css";
 const ProjectName = () => {
   return (
@@ -44,6 +45,23 @@ const ProjectName = () => {
             </Box>
           </Box>
         </a>
+      </Box>
+      <Box className="All-project-containt">
+        <Typography variant="h3">-:All Project:-</Typography>
+        <a href="https://github.com/io6-ankit">
+          <img
+            src={GithubImage}
+            alt="githubImage"
+            className="All-project-image"
+          />
+        </a>
+        <Typography
+          className="Github-Id-Name"
+          style={{ margin: "0 0 0 30px" }}
+          variant="h4"
+        >
+          GitHub Id
+        </Typography>
       </Box>
     </>
   );

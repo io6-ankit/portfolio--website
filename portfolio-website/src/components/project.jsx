@@ -8,14 +8,18 @@ const Project = () => {
     <>
       <Box className="project-main-section">
         <Box className="project-image-section">
-          <img src={ProjectImage} alt="projevt-image" />
+          <img
+            src={ProjectImage}
+            alt="projevt-image"
+            className="project-image-section-child"
+          />
         </Box>
         <Box>
           <Box className="project-heading-section">
             <Typography variant="h2">Projects</Typography>
           </Box>
           <Box className="project-paragraph-section">
-            <Typography variant="p">
+            <Typography variant="h4">
               My projects makes use of vast variety of latest technology tools.
             </Typography>
           </Box>
