@@ -15,7 +15,7 @@ const Experience = () => {
       </Box>
       <Box className="Experience-parent-section">
         <Box className="Experience-main-heading-section">
-          <Typography variant="h3">Experience</Typography>
+          <Typography variant="h2">Experience</Typography>
         </Box>
         <Box className="Experience-heading-section">
           <Typography variant="h4">Fresher</Typography>

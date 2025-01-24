@@ -94,6 +94,12 @@
     width: 120%;
     color: rgb(37, 36, 36);
   }
+  .qualification-parent-section {
+    margin-left: 70px;
+    margin-top: 50px;
+    width: 235%;
+    border: 1px solid black;
+  }
 }
 @media only screen and (max-width: 321px) {
   .Degrees-Received {

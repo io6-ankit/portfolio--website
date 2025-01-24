@@ -79,6 +79,14 @@
     width: 120%;
     margin: 0 0 0 180px;
   }
+  .education-heading {
+    margin: 20px 0 0 5%;
+    height: 100px;
+    width: 890px;
+    /* border: 1px solid black; */
+    font-size: 50px;
+    color: rgb(37, 36, 36);
+  }
   .experience-heading-section {
     width: 170%;
     height: 600px;

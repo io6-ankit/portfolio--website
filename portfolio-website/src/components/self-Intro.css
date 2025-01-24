@@ -197,26 +197,46 @@
 @media only screen and (max-width: 376px) {
   .heading-title {
     font-size: 70px;
-    width: 195%;
-
+    width: 225%;
+    /* border: 1px solid black; */
     color: rgb(47, 47, 57);
-    margin: 90px 0 0 200px;
+    margin: 230px 0 0 100px;
+  }
+  .image {
+    height: 600px;
+    width: 800px;
+    /* border: 1px solid black; */
+    margin: -40px 0 0 70px;
   }
   .heading {
-    margin: 10px 0 0 70%;
-    font-size: 80px;
+    margin: 10px 0 0 84%;
+    height: 130px;
+    width: 400px;
+    /* border: 1px solid black; */
+    font-size: 70px;
     color: rgb(23, 22, 22);
 
     width: 110%;
   }
   .Skills-Link-section {
     height: 70px;
-    width: 135%;
-
-    margin: 50px 0 0 255px;
+    width: 255%;
+    /* border: 1px solid black; */
+    margin: 50px 0 0 85px;
+  }
+  .html5,
+  .css3,
+  .javascript,
+  .bootstrap,
+  .materialui,
+  .npm,
+  .reactjs {
+    height: 80px;
+    width: 100px;
+    /* border: 1px solid black; */
   }
   .explain {
-    font-size: 27px;
+    font-size: 37px;
     list-style-type: none;
     margin: 50px 0 0 60px;
   }
