@@ -100,18 +100,25 @@
   }
   .Experience-main-image-section {
     height: 600px;
-    width: 160%;
+    width: 147%;
     /* border: 1px solid black; */
-    margin: 0 0px 0 10px;
+    margin: 0 0px 0 0px;
+  }
+  .Experience-image-section {
+    height: 500px;
+    width: 90%;
+    margin: 40px 0 0 80px;
   }
   .Experience-main-heading-section {
-    margin: 120px 0 0 150px;
+    margin: 60px 0 0 280px;
+    height: 100px;
+    width: 300px;
     color: rgb(3, 3, 69);
-    border: 1px solid black;
-    font-size: 70px;
+    /* border: 1px solid black; */
+    font-size: 80px;
   }
   .Experience-heading-section {
-    margin: 15px 0 0 300px;
+    margin: 0px 0 0 330px;
     color: rgb(3, 3, 69);
   }
 }

@@ -221,41 +221,57 @@
   }
 }
 @media only screen and (max-width: 376px) {
-  .Contact-image-section {
+  /* .Contact-image-section {
     height: 420px;
     width: 270%;
     margin: 40px 0 0 230%;
+  } */
+  .githubImageSection {
+    height: 50px;
+    width: 50px;
+    margin: 10px 0 0 290px;
+  }
+  .contact-heading-section {
+    margin: -80px 0 0 180%;
+    height: 80px;
+    width: 190%;
+    /* border: 1px solid red; */
+  }
+  .Contact-main-image-section {
+    height: 600px;
+    width: 70%;
   }
   .Contact-image-section {
     height: 420px;
     width: 270%;
-    margin: 40px 0 0 100%;
+    margin: 40px 0 0 60%;
   }
   .contact-paragraph-section {
-    height: 50px;
-    width: 350%;
+    height: 90px;
+    width: 400%;
     font-size: 27px;
-    margin: 60px 0 0 70%;
+    margin: 20px 0 0 70%;
+    /* border: 1px solid red; */
   }
   .adress-paragraph-section {
     margin: 0 0 0 40px;
   }
   .heading-mobile-number-section {
-    margin: 270px 0 0 150%;
+    margin: 230px 0 0 170%;
     font-size: 20px;
     height: 20px;
     width: 180%;
   }
   .number-section {
-    margin: 50px 0 0 188%;
+    margin: 50px 0 0 200%;
     font-size: 20px;
     height: 20px;
     width: 100%;
   }
   .maps {
-    margin: 30px 0 0 175%;
+    margin: 30px 0 0 195%;
     height: 20px;
-    width: 100%;
+    width: 130%;
   }
 }
 @media only screen and (max-width: 321px) {
