@@ -198,21 +198,21 @@
   .heading-title {
     font-size: 70px;
     width: 225%;
-    /* border: 1px solid black; */
+
     color: rgb(47, 47, 57);
     margin: 230px 0 0 100px;
   }
   .image {
     height: 600px;
     width: 800px;
-    /* border: 1px solid black; */
+
     margin: -40px 0 0 70px;
   }
   .heading {
     margin: 10px 0 0 84%;
     height: 130px;
     width: 400px;
-    /* border: 1px solid black; */
+
     font-size: 70px;
     color: rgb(23, 22, 22);
 
@@ -221,7 +221,7 @@
   .Skills-Link-section {
     height: 70px;
     width: 255%;
-    /* border: 1px solid black; */
+
     margin: 50px 0 0 85px;
   }
   .html5,
@@ -233,7 +233,6 @@
   .reactjs {
     height: 80px;
     width: 100px;
-    /* border: 1px solid black; */
   }
   .explain {
     font-size: 37px;

@@ -101,7 +101,7 @@
   .Experience-main-image-section {
     height: 600px;
     width: 147%;
-    /* border: 1px solid black; */
+
     margin: 0 0px 0 0px;
   }
   .Experience-image-section {
@@ -114,7 +114,7 @@
     height: 100px;
     width: 300px;
     color: rgb(3, 3, 69);
-    /* border: 1px solid black; */
+
     font-size: 80px;
   }
   .Experience-heading-section {
